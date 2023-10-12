@@ -1,0 +1,7 @@
+aioflask==0.3.0
+pillow
+onnx
+onnxruntime
+protobuf==3.20.0
+uvicorn[standard]
+opencv-python-headless
