@@ -56,8 +56,8 @@ def runOD(model_filepath):
 async def index():
     return jsonify(
         {
-            "ServiceName": "AcoRecycle Object Detection Vision API",
-            "version": "0.2.0",
+            "ServiceName": "Object Detection Vision API",
+            "version": "0.1.0",
             "Environment": "Development",
         }
     )
