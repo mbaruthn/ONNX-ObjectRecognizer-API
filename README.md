@@ -1,8 +1,8 @@
 # Model Training
 
-To train the model to be used with appropriate labels on the CustumVision service,
+To train the model to be used with appropriate labels on the CustomVision service,
 you need to host it within the model folder and write the labels into the classes array.
-The output model from CustumVision should be in the format of OnnxF16, GeneralCompact[S1].
+The output model from CustomVision should be in the format of OnnxF16, GeneralCompact[S1].
 
 # ONNX-ObjectDetectionAIApi
 
